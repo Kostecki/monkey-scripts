@@ -5,7 +5,7 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=harald-nyborg.dk
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Jacob Kostecki
 // @description 2.3.2024 17.45.46
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/dom@2
 // ==/UserScript==

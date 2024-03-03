@@ -5,7 +5,7 @@
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=xn--nskeskyen-k8a.dk
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      Jacob Kostecki
 // @description 3.3.2024 00.12.12
 // @require https://cdn.jsdelivr.net/npm/@violentmonkey/dom@2
 // ==/UserScript==
