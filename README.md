@@ -1,4 +1,4 @@
-# Tampermonkey Scripts
+# Monkey Scripts
 
 - ### [Ønskeskyen.dk](https://xn--nskeskyen-k8a.dk/)
   _Replace "reserved by someone" with list of known names._
