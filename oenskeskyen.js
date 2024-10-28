@@ -58,8 +58,8 @@ const addWishes = () => {
     wishes.forEach((wish, index) => {
       if (wish.reservations.length > 0) {
         const reservation = wish.reservations[0].reservedBy;
-        const name = `${reservation.firstName} ${reservation.lastName}`;
-        const newText = `<div style="text-align: center;">Reserveret af<br />${name.trim()}</div>`;
+        const name = `${reservation.firstName} ${reservation.lastName}`.trim();
+        const newText = `<div style="text-align: center;">Reserveret af<br />${name}</div>`;
 
         try {
           wishElements[index].querySelector(
